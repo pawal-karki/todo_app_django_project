@@ -24,8 +24,8 @@ Before you begin, ensure you have met the following requirements:
 
     ```sh
     python -m venv venv
-    source venv/bin/activate #for mac/Linux
-    # On Windows use `venv\Scripts\activate`
+    source .venv/bin/activate #for mac/Linux
+    .venv\Scripts\activate #for windows
     
     ```
 
