@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com//django-todo-app.git
+    git clone **https://github.com/pawal-karki/todo_app_django_project**
     cd django-todo-app
     ```
 
