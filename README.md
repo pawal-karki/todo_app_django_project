@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 
     ```sh
     git clone https://github.com/pawal-karki/todo_app_django_project
-    cd django-todo-app
+    cd Django_project #
     ```
 
 2. Create and activate a virtual environment:
